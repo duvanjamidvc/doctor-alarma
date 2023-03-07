@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "Doctor alarma",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}

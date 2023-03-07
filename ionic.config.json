@@ -1,0 +1,8 @@
+{
+  "name": "Doctor alarma",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "04842d38"
+}
